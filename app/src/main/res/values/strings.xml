@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Credit Calculator</string>
+    <string name="calculator_title">Credit Calculator</string>
+    <string name="credit_amount">Credit Amount</string>
+    <string name="loan_term">Loan Term (Months)</string>
+    <string name="rate">Interest Rate (%)</string>
+    <string name="payment">Monthly Payment: %s</string>
+    <string name="overpayment">Total Overpayment: %s</string>
+    <string name="total_amount">Total Amount Paid: %s</string>
+</resources>
